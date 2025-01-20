@@ -1,2 +1,2 @@
-this is first change is text file...
-this is confict in same file bt server 2
+this is first change is teD
+this is confict in same file server2

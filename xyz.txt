@@ -1,3 +1,2 @@
 this is firsy xyz file file to update...
-
-this is confict by server2
+this edit by solved confict 2
