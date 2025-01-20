@@ -1,1 +1,3 @@
-this is firsy xyz file file to update...`:wq
+this is firsy xyz file file to update...
+
+this is confict by server2
